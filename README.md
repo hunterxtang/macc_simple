@@ -1,6 +1,7 @@
 This project is a simplified Python implementation and visualization of multi-agent collective construction inspired by:
 
 Multi-agent Collective Construction using 3D Decomposition
+
 Srinivasan et al., 2023
 https://arxiv.org/abs/2309.00985
 
