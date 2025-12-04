@@ -15,6 +15,8 @@ Visualization 1 (Pre)
 
 Visualization 2 (Decomposition)
 
-![Screen Recording Dec 3 2025](https://github.com/user-attachments/assets/5c354ca2-63f4-4e40-af8c-4d6c78b1459d)
+<img src="https://github.com/user-attachments/assets/5c354ca2-63f4-4e40-af8c-4d6c78b1459d"
+     width="462"
+     height="417">
 
 Visualization 3 (Build)
