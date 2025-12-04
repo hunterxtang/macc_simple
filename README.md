@@ -10,7 +10,7 @@ The system takes a 3D voxel structure, decomposes it into independent substructu
 
 Visualization 1 (Pre)
 
-<img width="462" height="417" alt="Screenshot 2025-12-03 at 11 29 17 PM" src="https://github.com/user-attachments/assets/14fe3c81-d9b6-4f48-9c52-cf41fab1291b" />
+<img width="462" height="417" alt="Screenshot 2025-12-03 at 11 29 26 PM" src="https://github.com/user-attachments/assets/6a6f4694-5dc1-4609-b4df-00eb023dfa45" />
 
 Visualization 2 (Decomposition)
 
